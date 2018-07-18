@@ -52,4 +52,4 @@ function start(){
 
 	http.createServer(onRequest).listen
 }
-console.log("test2")
+console.log("test3")
